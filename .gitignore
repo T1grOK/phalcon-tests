@@ -1,0 +1,10 @@
+.idea
+nbproject
+.buildpath
+.project
+.settings
+
+/vendor
+
+composer.phar
+composer.loc
